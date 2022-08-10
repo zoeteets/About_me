@@ -6,17 +6,17 @@ A brief README about me
 <h3 align="center">Proficient in SQL, Python, PowerBI, and Tableau</h3>
 
 
-- 🔭 I’m currently working on [Capstone for Nashville Software School](https://github.com/zoeteets/capstone)
+- 🔭 I’m currently working on my [Capstone for Nashville Software School](https://github.com/zoeteets/capstone)
 
-- 🌱 I’m currently learning **DAX expressions**
+- 🌱 I’m currently learning about **developing Key Performance Indicators (KPI)**
 
 - 👯 I’m looking to collaborate on **side projects focused on data visualization.**
 
 - 🤝 I’m looking for help with **finding a full-time Data Analyst or Business Analyst position which leverages data visualization to resolve business needs.**
 
-- 👨‍💻 Most recent project [https://sites.google.com/view/nss-tech-partner-project/introduction](https://sites.google.com/view/nss-tech-partner-project/introduction)
+- 👨‍💻 Most recent project can be found [here](https://sites.google.com/view/nss-tech-partner-project/introduction)
 
-- 💬 Ask me about **fuzzy merges**
+- 💬 Ask me about **my cats**
 
 - 📫 How to reach me **https://www.linkedin.com/in/zoe-teets/**
 
