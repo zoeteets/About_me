@@ -13,7 +13,7 @@ A brief README about me
 
 - 👯 I’m looking to collaborate on **side projects focused on data visualization.**
 
-- 🤝 I’m looking for help with **finding a full-time Data Analyst or Business Analyst position which leverages data visualization to solve business needs.**
+- 🤝 I’m looking for help with **finding a full-time Data Analyst or Business Analyst position which leverages data visualization to resolve business needs.**
 
 - 👨‍💻 Most recent project [https://sites.google.com/view/nss-tech-partner-project/introduction](https://sites.google.com/view/nss-tech-partner-project/introduction)
 
