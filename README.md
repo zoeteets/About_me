@@ -5,7 +5,6 @@ A brief README about me
 <h3 align="center">A Data Analyst located in Nashville, Tennessee.</h3>
 <h3 align="center">Proficient in SQL, Python, PowerBI, and Tableau</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zoeteets&label=Profile%20views&color=0e75b6&style=flat" alt="zoeteets" /> </p>
 
 - 🔭 I’m currently working on [Capstone for Nashville Software School](https://github.com/zoeteets/capstone)
 
